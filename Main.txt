@@ -102,8 +102,8 @@ local keywords = {
     "oi gato",
     "crlh",
     "krlh",
-    "🤤"
-   "CALA A BOCA",
+    "🤤",
+    "CALA A BOCA",
     "seu chato",
     "arrogante",
     "grosso",
