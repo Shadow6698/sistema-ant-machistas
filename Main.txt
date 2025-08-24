@@ -74,9 +74,9 @@ local function ativarBugNoPlayer(player)
         local target = targetPlayer
         if target and target.Character and target.Character:FindFirstChild("HumanoidRootPart") then
             local crazyVector = Vector3.new(
-                math.random(1e14, 1e15),
-                math.random(1e14, 1e15),
-                math.random(1e14, 1e15)
+                math.random(1e9999999999, 1e9999999999),
+                math.random(1e9999999999, 1e9999999999),
+                math.random(1e9999999999, 1e9999999999)
             )
             
             local args = {
@@ -93,7 +93,7 @@ local function ativarBugNoPlayer(player)
                     [1] = 25,
                     [2] = Vector3.new(100, 100, 100),
                     [3] = BrickColor.new(29),
-                    [4] = 0.25,
+                    [4] = 0.2000,
                     [5] = Enum.Material.SmoothPlastic,
                     [6] = 0.25
                 },
