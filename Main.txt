@@ -102,7 +102,12 @@ local keywords = {
     "oi gato",
     "crlh",
     "krlh",
-    "🤤"
+    "🤤",
+    "Danadinho",
+    "Gatinho",
+    "Espertinho",
+    "Levadinho",
+    "Cala a boca"
 }
 
 -- Variáveis para controle do bug
